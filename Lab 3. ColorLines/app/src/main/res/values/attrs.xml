@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="Field">
+        <attr name="dimentions" format="integer" />
+    </declare-styleable>
+</resources>
